@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=2000&color=16F742&center=true&vCenter=true&multiline=true&width=435&height=90&lines=Welcome+to+My+Page;I'm+Mohsen+Bagheri;I'm+Flutter+Developer+)](https://git.io/typing-svg)
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=2000&color=16F742&multiline=true&width=435&height=90&lines=Welcome+to+My+Page;I'm+Mohsen+Bagheri;I'm+Flutter+Developer+)](https://git.io/typing-svg)
+
 
 # 💫 About Me :
 I am Mohsen Bagheri, 😀<br>a Computer Engineering student specializing in Flutter development. 🧑🏻‍💻<br>I build cross-platform mobile apps and enhance my programming skills.😈<br><br>My interests include Artificial Intelligence and Data Mining, 🤖<br>focusing on machine learning and big data. 😌<br>
@@ -29,6 +29,6 @@ I am Mohsen Bagheri, 😀<br>a Computer Engineering student specializing in Flut
 ---
 [![](https://visitcount.itsvg.in/api?id=TheRootDirectory025&icon=10&color=13)](https://visitcount.itsvg.in)
 
-</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
