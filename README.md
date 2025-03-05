@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There;I'm+Mohsen+Bagheri)](https://git.io/typing-svg)
+
 # 💫 About Me:
 I am Mohsen Bagheri, 😀<br>a Computer Engineering student specializing in Flutter development. 🧑🏻‍💻<br>I build cross-platform mobile apps and enhance my programming skills.😈<br><br>My interests include Artificial Intelligence and Data Mining, 🤖<br>focusing on machine learning and big data. 😌<br>
 
