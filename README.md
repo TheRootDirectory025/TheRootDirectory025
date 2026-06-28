@@ -49,28 +49,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=TheRootDirectory025&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRootDirectory025&theme=tokyonight&hide_border=true&layout=compact" height="165" alt="Top Languages" />
 </div>
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=TheRootDirectory025&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=TheRootDirectory025&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" height="165" alt="Trophies" />
-</div>
 
 <br>
-
-<!-- Contribution Snake -->
-<h3 align="center">🐍 Contributions Snake</h3>
-<div align="center">
-  ![snake](https://raw.githubusercontent.com/TheRootDirectory025/TheRootDirectory025/output/github-contribution-grid-snake.svg)
-  <!-- Note: You need a GitHub Action to generate this snake.svg in your repo -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheRootDirectory025/TheRootDirectory025/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheRootDirectory025/TheRootDirectory025/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TheRootDirectory025/TheRootDirectory025/output/github-contribution-grid-snake.svg" width="80%">
-  </picture>
-</div>
-
-<div align="center">
-  <br>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=TheRootDirectory025&icon=10&color=13" alt="Profile Views" />
-  </a>
-</div>
