@@ -31,11 +31,11 @@
     <td width="45%" valign="top" align="center">
       <h3>🛠️ Tech Stack</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,swift,androidstudio,gradle&perline=3" alt="Mobile Stack" />
+        <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,swift&perline=2" alt="Mobile Stack" />
       </a>
       &nbsp;
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,py,git,github,gitlab&perline=3" alt="Tools and Languages" />
+        <img src="https://skillicons.dev/icons?i=cpp,py&perline=1" alt="Tools and Languages" />
       </a>
     </td>
   </tr>
