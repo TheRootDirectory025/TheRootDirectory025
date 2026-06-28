@@ -59,6 +59,7 @@
 <!-- Contribution Snake -->
 <h3 align="center">🐍 Contributions Snake</h3>
 <div align="center">
+  ![snake](https://raw.githubusercontent.com/TheRootDirectory025/TheRootDirectory025/output/github-contribution-grid-snake.svg)
   <!-- Note: You need a GitHub Action to generate this snake.svg in your repo -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheRootDirectory025/TheRootDirectory025/output/github-contribution-grid-snake-dark.svg">
