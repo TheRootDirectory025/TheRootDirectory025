@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Django - React**
 
-- 🌱 I’m currently learning [Django - SQL](https://github.com/TheRootDirectory025/SQL-fundametals)
+- 🌱 I’m currently learning **Django - SQL**
 
 - 📫 How to reach me **baqeri.me@gmail.com**
 
@@ -29,4 +29,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=therootdirectory025&show_icons=true&locale=en" alt="therootdirectory025" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=therootdirectory025&" alt="therootdirectory025" /></p>
